@@ -1,0 +1,230 @@
+[
+   {
+      "customer_id": 2,
+      "purchase_amount": 830.34,
+      "name": "Mark Luna",
+      "email": "mark.luna@gmail.com"
+   },
+   {
+      "customer_id": 3,
+      "purchase_amount": 839.99,
+      "name": "Amy Chavez",
+      "email": "amy.chavez@hotmail.com"
+   },
+   {
+      "customer_id": 7,
+      "purchase_amount": 418.04,
+      "name": "Ashley Glenn",
+      "email": "ashley.glenn@hotmail.com"
+   },
+   {
+      "customer_id": 8,
+      "purchase_amount": 371.34,
+      "name": "Megan Evans",
+      "email": "megan.evans@hotmail.com"
+   },
+   {
+      "customer_id": 9,
+      "purchase_amount": 296.73,
+      "name": "Brooke Davis",
+      "email": "brooke.davis@yahoo.com"
+   },
+   {
+      "customer_id": 10,
+      "purchase_amount": 776.51,
+      "name": "Linda Ross",
+      "email": "linda.ross@gmail.com"
+   },
+   {
+      "customer_id": 12,
+      "purchase_amount": 49.48,
+      "name": "Jennifer Simmons",
+      "email": "jennifer.simmons@hotmail.com"
+   },
+   {
+      "customer_id": 13,
+      "purchase_amount": 277.89,
+      "name": "Gabriel Preston",
+      "email": "gabriel.preston@hotmail.com"
+   },
+   {
+      "customer_id": 14,
+      "purchase_amount": 632.72,
+      "name": "Tami Ashley",
+      "email": "tami.ashley@yahoo.com"
+   },
+   {
+      "customer_id": 15,
+      "purchase_amount": 148.23,
+      "name": "  James Farmer   ",
+      "email": "james.farmer@yahoo.com"
+   },
+   {
+      "customer_id": 16,
+      "purchase_amount": 440.0,
+      "name": "Leon Griffin",
+      "email": "leon.griffin@hotmail.com"
+   },
+   {
+      "customer_id": 17,
+      "purchase_amount": 718.24,
+      "name": "Justin Anderson",
+      "email": "justin.anderson@yahoo.com"
+   },
+   {
+      "customer_id": 18,
+      "purchase_amount": 546.74,
+      "name": "Eric George",
+      "email": "eric.george@hotmail.com"
+   },
+   {
+      "customer_id": 19,
+      "purchase_amount": 564.69,
+      "name": "John Marshall",
+      "email": "john.marshall@gmail.com"
+   },
+   {
+      "customer_id": 20,
+      "purchase_amount": 843.99,
+      "name": "Angelica Butler",
+      "email": "angelica.butler@yahoo.com"
+   },
+   {
+      "customer_id": 21,
+      "purchase_amount": 815.14,
+      "name": "Kimberly Davis",
+      "email": "kimberly.davis@yahoo.com"
+   },
+   {
+      "customer_id": 23,
+      "purchase_amount": 694.43,
+      "name": "Robert Avila",
+      "email": "robert.avila@hotmail.com"
+   },
+   {
+      "customer_id": 24,
+      "purchase_amount": 731.94,
+      "name": "Marcus Long Jr",
+      "email": "marcus.long@hotmail.com"
+   },
+   {
+      "customer_id": 25,
+      "purchase_amount": 707.01,
+      "name": "Jeffrey Haley",
+      "email": "jeffrey.haley@yahoo.com"
+   },
+   {
+      "customer_id": 27,
+      "purchase_amount": 324.07,
+      "name": "  Charlotte Hahn   ",
+      "email": "charlotte.hahn@gmail.com"
+   },
+   {
+      "customer_id": 28,
+      "purchase_amount": 433.18,
+      "name": "Karen Williams",
+      "email": "karen.williams@hotmail.com"
+   },
+   {
+      "customer_id": 30,
+      "purchase_amount": 178.06,
+      "name": "Sarah Turner",
+      "email": "sarah.turner@gmail.com"
+   },
+   {
+      "customer_id": 31,
+      "purchase_amount": 763.78,
+      "name": "Laura",
+      "email": "laura.lopez@hotmail.com"
+   },
+   {
+      "customer_id": 32,
+      "purchase_amount": 486.36,
+      "name": "Bryan Brown",
+      "email": "bryan.brown@yahoo.com"
+   },
+   {
+      "customer_id": 33,
+      "purchase_amount": 998.18,
+      "name": "Michelle Erickson",
+      "email": "michelle.erickson@gmail.com"
+   },
+   {
+      "customer_id": 34,
+      "purchase_amount": 365.23,
+      "name": "Rachel Weaver",
+      "email": "rachel.weaver@hotmail.com"
+   },
+   {
+      "customer_id": 35,
+      "purchase_amount": 693.97,
+      "name": "Andrew Lopez",
+      "email": "andrew.lopez@gmail.com"
+   },
+   {
+      "customer_id": -463,
+      "purchase_amount": 982.73,
+      "name": "Derek Wolfe",
+      "email": "derek.wolfe@hotmail.com"
+   },
+   {
+      "customer_id": 40,
+      "purchase_amount": 495.32,
+      "name": "Allison Meyer",
+      "email": "allison.meyer@yahoo.com"
+   },
+   {
+      "customer_id": 41,
+      "purchase_amount": 146.22,
+      "name": "Richard Baird",
+      "email": "richard.baird@yahoo.com"
+   },
+   {
+      "customer_id": 43,
+      "purchase_amount": 53.99,
+      "name": "William Johnson",
+      "email": "william.johnson@hotmail.com"
+   },
+   {
+      "customer_id": 44,
+      "purchase_amount": 22.66,
+      "name": "William Clark",
+      "email": "william.clark@hotmail.com"
+   },
+   {
+      "customer_id": 45,
+      "purchase_amount": 578.64,
+      "name": "Alyssa Price",
+      "email": "alyssa.price@hotmail.com"
+   },
+   {
+      "customer_id": 46,
+      "purchase_amount": 887.69,
+      "name": "Jacqueline Boyer",
+      "email": "jacqueline.boyer@gmail.com"
+   },
+   {
+      "customer_id": 48,
+      "purchase_amount": 93.73,
+      "name": "Thomas Johnston",
+      "email": "thomas.johnston@yahoo.com"
+   },
+   {
+      "customer_id": 49,
+      "purchase_amount": 941.47,
+      "name": "Amy Vincent",
+      "email": "amy.vincent@gmail.com"
+   },
+   {
+      "customer_id": 50,
+      "purchase_amount": 167.58,
+      "name": "Nancy Miles",
+      "email": "nancy.miles@gmail.com"
+   },
+   {
+      "customer_id": 51,
+      "purchase_amount": 536.33,
+      "name": "marissa nash",
+      "email": "marissa.nash@yahoo.com"
+   }
+]

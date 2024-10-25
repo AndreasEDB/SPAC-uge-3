@@ -1,0 +1,14 @@
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\bin\Debug\net8.0\Niveau3_2.exe
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\bin\Debug\net8.0\Niveau3_2.deps.json
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\bin\Debug\net8.0\Niveau3_2.runtimeconfig.json
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\bin\Debug\net8.0\Niveau3_2.dll
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\bin\Debug\net8.0\Niveau3_2.pdb
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\obj\Debug\net8.0\Niveau3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\obj\Debug\net8.0\Niveau3_2.AssemblyInfoInputs.cache
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\obj\Debug\net8.0\Niveau3_2.AssemblyInfo.cs
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\obj\Debug\net8.0\Niveau3_2.csproj.CoreCompileInputs.cache
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\obj\Debug\net8.0\Niveau3_2.dll
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\obj\Debug\net8.0\refint\Niveau3_2.dll
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\obj\Debug\net8.0\Niveau3_2.pdb
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\obj\Debug\net8.0\Niveau3_2.genruntimeconfig.cache
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau3_2\obj\Debug\net8.0\ref\Niveau3_2.dll

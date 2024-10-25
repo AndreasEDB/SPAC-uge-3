@@ -1,0 +1,15 @@
+[
+   "line 1: {\"customer_id\": \"1\", \"name\": \"Hailey Little\", \"email\": \"hailey.little@yahoo.com\", \"purchase_amount\": \"\", \"null\": [\"78.95\"]}",
+   "line 4: {\"customer_id\": \"\", \"name\": \"\", \"email\": \"\", \"purchase_amount\": \"\"}",
+   "line 5: {\"customer_id\": \"\", \"name\": \"\", \"email\": \"\", \"purchase_amount\": \"\"}",
+   "line 6: {\"customer_id\": \"nan\", \"name\": \"Sandra\", \"email\": \"sandra.holt@hotmail.com\", \"purchase_amount\": \"423.25\"}",
+   "line 11: {\"customer_id\": \"11\", \"name\": \"Christian\", \"email\": \"christian.robinson@yahoo.com\", \"purchase_amount\": \"\", \"null\": [\"159.41\"]}",
+   "line 22: {\"customer_id\": \"\", \"name\": \"22\", \"email\": \"Melissa Arellano\", \"purchase_amount\": \"melissa.arellano@gmail.com\", \"null\": [\"-834.03\"]}",
+   "line 26: {\"customer_id\": \"\", \"name\": \"\", \"email\": \"\", \"purchase_amount\": \"\"}",
+   "line 29: {\"customer_id\": \"29\", \"name\": \"\", \"email\": \"Charles Holmes\", \"purchase_amount\": \"charles.holmes@gmail.com\", \"null\": [\"465.5\"]}",
+   "line 36: {\"customer_id\": \"36\", \"name\": \"Brent Young\", \"email\": \"\", \"purchase_amount\": \"777.45\"}",
+   "line 37: {\"customer_id\": \"37\", \"name\": \"Christopher Arnold\", \"email\": \"christopher.arnold@hotmail.com\", \"purchase_amount\": \"ABC123\"}",
+   "line 39: {\"customer_id\": \"\", \"name\": \"\", \"email\": \"\", \"purchase_amount\": \"\"}",
+   "line 42: {\"customer_id\": \"42\", \"name\": \"Desiree Moreno\", \"email\": \"\", \"purchase_amount\": \"439.51\"}",
+   "line 47: {\"customer_id\": \"47\", \"name\": \"Justin Patterson\", \"email\": \"justin.patterson@\", \"purchase_amount\": \"787.8\"}"
+]

@@ -1,0 +1,14 @@
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\bin\Debug\net8.0\Niveau1.exe
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\bin\Debug\net8.0\Niveau1.deps.json
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\bin\Debug\net8.0\Niveau1.runtimeconfig.json
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\bin\Debug\net8.0\Niveau1.dll
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\bin\Debug\net8.0\Niveau1.pdb
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\obj\Debug\net8.0\Niveau1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\obj\Debug\net8.0\Niveau1.AssemblyInfoInputs.cache
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\obj\Debug\net8.0\Niveau1.AssemblyInfo.cs
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\obj\Debug\net8.0\Niveau1.csproj.CoreCompileInputs.cache
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\obj\Debug\net8.0\Niveau1.dll
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\obj\Debug\net8.0\refint\Niveau1.dll
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\obj\Debug\net8.0\Niveau1.pdb
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\obj\Debug\net8.0\Niveau1.genruntimeconfig.cache
+C:\Users\AndreasHøjgaard-gamm\projects\SPAC uge 3\Niveau1\obj\Debug\net8.0\ref\Niveau1.dll
